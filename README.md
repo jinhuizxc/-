@@ -1,4 +1,7 @@
 # -Android经久不衰最受欢迎的开源库整理，你一定用过10个以上，架构师必备
+
+文末附开源框架综合使用开源APP项目
+
 第三方库
 
 一 、网络请求
@@ -78,7 +81,7 @@
      LeakCanary
 
             内存泄漏检测工具，Facebook出品
-             https://github.com/square/leakcanary
+            https://github.com/square/leakcanary
      ACRAAndroid
 
              应用程序崩溃报告
@@ -131,7 +134,7 @@
     1、OrmLite
 
         JDBC和Android的轻量级ORM java包
-        https://sourceforge.net/projects/ormlite/files/releases/com/j256/ormlite
+    https://sourceforge.net/projects/ormlite/files/releases/com/j256/ormlite
 
     2、Sugar
         用超级简单的方法处理Android数据库
